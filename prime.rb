@@ -1,3 +1,3 @@
-def is_prime(number)
-  
+def is_prime(numbers)
+  numbers.prime? { |number| number } 
 end 
