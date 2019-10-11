@@ -1,3 +1,3 @@
 def is_prime(number)
-  prime?(number)
+  Prime.prime?(number)
 end 
