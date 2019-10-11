@@ -1,4 +1,4 @@
 
 def is_prime(number)
-  Prime.prime?(number)
+  if number 
 end 
