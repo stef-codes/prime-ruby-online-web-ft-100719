@@ -1,5 +1,5 @@
 
-def is_prime(number)
+def prime?(number)
   if number <= 1
     return false
   else 
